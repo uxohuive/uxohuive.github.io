@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uxohuive.github.io/Qvo/sitemap_index.txt
+Sitemap: https://uxohuive.github.io/hvR/sitemap_index.txt
+Sitemap: https://uxohuive.github.io/meL/sitemap_index.txt
+Sitemap: https://uxohuive.github.io/xqg/sitemap_index.txt
